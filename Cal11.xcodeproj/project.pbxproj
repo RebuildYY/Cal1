@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3DC13EC2206FA91A001DE385 /* Cal1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cal1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3DC13EC2206FA91A001DE385 /* Cal11.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cal11.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DC13EC5206FA91A001DE385 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3DC13EC7206FA91A001DE385 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		3DC13ECA206FA91A001DE385 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -38,7 +38,7 @@
 		3DC13EB9206FA91A001DE385 = {
 			isa = PBXGroup;
 			children = (
-				3DC13EC4206FA91A001DE385 /* Cal1 */,
+				3DC13EC4206FA91A001DE385 /* Cal11 */,
 				3DC13EC3206FA91A001DE385 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -46,12 +46,12 @@
 		3DC13EC3206FA91A001DE385 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3DC13EC2206FA91A001DE385 /* Cal1.app */,
+				3DC13EC2206FA91A001DE385 /* Cal11.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3DC13EC4206FA91A001DE385 /* Cal1 */ = {
+		3DC13EC4206FA91A001DE385 /* Cal11 */ = {
 			isa = PBXGroup;
 			children = (
 				3DC13EC5206FA91A001DE385 /* AppDelegate.swift */,
@@ -61,15 +61,15 @@
 				3DC13ECE206FA91B001DE385 /* LaunchScreen.storyboard */,
 				3DC13ED1206FA91B001DE385 /* Info.plist */,
 			);
-			path = Cal1;
+			path = Cal11;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3DC13EC1206FA91A001DE385 /* Cal1 */ = {
+		3DC13EC1206FA91A001DE385 /* Cal11 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3DC13ED4206FA91B001DE385 /* Build configuration list for PBXNativeTarget "Cal1" */;
+			buildConfigurationList = 3DC13ED4206FA91B001DE385 /* Build configuration list for PBXNativeTarget "Cal11" */;
 			buildPhases = (
 				3DC13EBE206FA91A001DE385 /* Sources */,
 				3DC13EBF206FA91A001DE385 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = Cal1;
+			name = Cal11;
 			productName = Cal1;
-			productReference = 3DC13EC2206FA91A001DE385 /* Cal1.app */;
+			productReference = 3DC13EC2206FA91A001DE385 /* Cal11.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3DC13EBD206FA91A001DE385 /* Build configuration list for PBXProject "Cal1" */;
+			buildConfigurationList = 3DC13EBD206FA91A001DE385 /* Build configuration list for PBXProject "Cal11" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3DC13EC1206FA91A001DE385 /* Cal1 */,
+				3DC13EC1206FA91A001DE385 /* Cal11 */,
 			);
 		};
 /* End PBXProject section */
@@ -282,13 +282,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3Y3Z2Z567H;
-				INFOPLIST_FILE = Cal1/Info.plist;
+				INFOPLIST_FILE = Cal11/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.sogang.cscp2.prof.Cal1;
+				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.sogang.cscp2.prof.Cal11;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -301,13 +301,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3Y3Z2Z567H;
-				INFOPLIST_FILE = Cal1/Info.plist;
+				INFOPLIST_FILE = Cal11/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.sogang.cscp2.prof.Cal1;
+				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.sogang.cscp2.prof.Cal11;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3DC13EBD206FA91A001DE385 /* Build configuration list for PBXProject "Cal1" */ = {
+		3DC13EBD206FA91A001DE385 /* Build configuration list for PBXProject "Cal11" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3DC13ED2206FA91B001DE385 /* Debug */,
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3DC13ED4206FA91B001DE385 /* Build configuration list for PBXNativeTarget "Cal1" */ = {
+		3DC13ED4206FA91B001DE385 /* Build configuration list for PBXNativeTarget "Cal11" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3DC13ED5206FA91B001DE385 /* Debug */,
